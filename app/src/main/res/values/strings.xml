@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">欣哲管家</string>
+
+    <string name="app_version">版本：0.9</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">功能清单</string>
+    <string name="title_activity_setting">设置</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_lost_find">手机防盗</string>
+    <string name="title_activity_setup_lost_found">手机防盗设置向导</string>
+    <string name="title_activity_setup2_lost_found">手机防盗设置向导</string>
+    <string name="title_activity_setup3_lost_found">手机防盗设置向导</string>
+    <string name="title_activity_setup4_lost_found">手机防盗设置向导</string>
+    <string name="title_activity_select_contact">选择联系人</string>
+    <string name="xinzhesecurity_device_admin">欣哲卫士权限激活</string>
+    <string name="xinzhesecurity_device_admin_description">获取系统高级权限</string>
+    <string name="title_activity_more_tools">百宝箱</string>
+    <string name="title_activity_phone_address">来电查询</string>
+    <string name="title_activity_call_block">骚扰拦截</string>
+    <string name="title_activity_app_manager">APP管理</string>
+    <string name="title_activity_antivirus">手机杀毒</string>
+    <string name="title_activity_clean">清理优化</string>
+    <string name="title_activity_traffic_statistics">流量统计</string>
+
+</resources>
